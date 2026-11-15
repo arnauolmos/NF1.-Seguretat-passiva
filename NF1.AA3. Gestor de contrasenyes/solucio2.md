@@ -67,3 +67,25 @@ Ara nem a comprovar que hem fet be tots els pasos anterirors i provem d'inicar s
 Aqui ja estem dintre.
 
 ![16](img/16.png)
+
+## 2.Generació de Contrasenyes Segures
+
+Un cop hem instalt i creat el compte, podem començar a utilitzar l'eina. Una de les grans opcions que te Bitwarde, es la creacio de contrasenyes segures.
+
+
+Si anem al menu desplegable que tenim a l'esquerra, trobem l'apartat "Generador"
+
+![17](img/17.png)
+
+Si entrem tenim diferents opcions de generadors,`Contrasenya`,`Frase de pas` i `Nom d'usuari`. Nosltres ens quem amb la de `Contrasenya`
+
+![18](img/18.png)
+
+Aqui ja podem demanarli una contrasenya segur.
+
+Tenim diferents opcions per a la contraenya, podem dir quina longitud volem(com mes llarga sugui, mes segura), quin tipus de caracter volem que faci servir, el numero de caracters minims, tant normals com especials i tambe li podem que eviti caracters ambigus.
+
+![19](img/19.png)
+
+
+
