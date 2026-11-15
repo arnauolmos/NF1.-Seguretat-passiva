@@ -120,5 +120,21 @@ Bitwarden tamb existeix com a extensio del navegadro, que serveix per emplenar a
 
 El funcionament es que nosltres inicem sessio a cualsevol servei web i amb l'extensio activada, bitwarden ens dira si volem guardar l'acces, acceptem i llavors el proxim cop que tornem aquesta pagina bitwarden ens oferira autocompletar els camps.
 
+## 4.Gestió de Còpies de Seguretat (Backup)
 
+A Bitwarden tenim l'opcio de exportat/fer una copia de seguretat, de la nostre caixa forta, que es on guardem tota la nostre informacio.
 
+Per fer-ho, anem al menu desplegable de l'esquerra i seleccionem "Exporta".
+
+![26](img/26.png)
+
+Escollim en quin tipus o volem.
+
+![27](img/27.png)
+
+I exportem. Al intentar-ho ens demanara la clau de la caixa forta per temes de seguretat.
+
+![28](img/28.png)
+
+I ja podrem guardar-ho on volguem.El nom de l'arxiu per defecte, inclou la data en que sa relitzar l'exportacio.
+![29](img/29.png)
