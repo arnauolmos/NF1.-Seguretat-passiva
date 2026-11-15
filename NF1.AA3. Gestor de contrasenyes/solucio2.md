@@ -114,7 +114,11 @@ Podem tornar a a la pagina prinicpal i trobarem que s'a guardat la nostre clau d
 
 El que ens permet aquesta accio que hem realitzat es que no ens hem d'enrecordar de la contrasenya dels correus que tinguem, nomes creem el inici de sessió al bitwarden un cop i ja podrem accedir al correu sense tenir que enrecordarnso de la contrasenya.
 
+### 3.2.Com fer servir l’extensió del navegador per emplenar automàticament les dades
 
+Bitwarden tamb existeix com a extensio del navegadro, que serveix per emplenar automaticament tot aixo que hem fet fins ara pero mes senzill, ja que no necessita instalar res en local, i per tant podem fer-ho servir desde cualsevol dispositiu on nomes aurem de posar la clau mestre un cop i ja.
+
+El funcionament es que nosltres inicem sessio a cualsevol servei web i amb l'extensio activada, bitwarden ens dira si volem guardar l'acces, acceptem i llavors el proxim cop que tornem aquesta pagina bitwarden ens oferira autocompletar els camps.
 
 
 
