@@ -87,5 +87,34 @@ Tenim diferents opcions per a la contraenya, podem dir quina longitud volem(com 
 
 ![19](img/19.png)
 
+## 3.Exemples d'Ús i Emplenament Automàtic
+
+El que hem vist al punt anterior esta molt be, pero amb el punt anterior, podem perder la contrasenya o oblidarla, per tant no es molt eficient, es per aixo que bitwarden incorpora diferents serveis, per guardar aquesta inforamció.
+
+### 3.1.Com desar una credencial d'un compte de correu electrònic
+
+Una de les coses que podem fer es guardar la contrasenya d'un correu electrònic.
+
+Si tornem a la pagina d'inici trobem l'aparat de "Caixa forta"
+
+Alla tenim dos opcions per accedir podem fer-ho atraves del boto que apraeix al mitg, o amb el del costat del nostre perfil tots dos fan el mateix.
+
+![20](img/20.png)
+
+Al menu deplegable trim l'opcio de "Inici de sessió"
+
+![21](img/21.png)
+
+Aqui hem d'omplir les nostres dades corresponents i guardem.
+
+![22](img/22.png)
+
+Podem tornar a a la pagina prinicpal i trobarem que s'a guardat la nostre clau d'acces al correu electronic.
+![23](img/23.png)
+
+El que ens permet aquesta accio que hem realitzat es que no ens hem d'enrecordar de la contrasenya dels correus que tinguem, nomes creem el inici de sessió al bitwarden un cop i ja podrem accedir al correu sense tenir que enrecordarnso de la contrasenya.
+
+
+
 
 
