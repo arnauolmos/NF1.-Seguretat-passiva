@@ -110,6 +110,7 @@ Aqui hem d'omplir les nostres dades corresponents i guardem.
 ![22](img/22.png)
 
 Podem tornar a a la pagina prinicpal i trobarem que s'a guardat la nostre clau d'acces al correu electronic.
+
 ![23](img/23.png)
 
 El que ens permet aquesta accio que hem realitzat es que no ens hem d'enrecordar de la contrasenya dels correus que tinguem, nomes creem el inici de sessió al bitwarden un cop i ja podrem accedir al correu sense tenir que enrecordarnso de la contrasenya.
@@ -138,6 +139,7 @@ I exportem. Al intentar-ho ens demanara la clau de la caixa forta per temes de s
 ![28](img/28.png)
 
 I ja podrem guardar-ho on volguem.El nom de l'arxiu per defecte, inclou la data en que sa relitzar l'exportacio.
+
 ![29](img/29.png)
 
 ### 4.2.Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat
