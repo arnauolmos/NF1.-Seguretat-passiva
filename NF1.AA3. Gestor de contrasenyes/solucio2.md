@@ -122,6 +122,7 @@ El funcionament es que nosltres inicem sessio a cualsevol servei web i amb l'ext
 
 ## 4.Gestió de Còpies de Seguretat (Backup)
 
+### 4.1.Com fer una còpia de seguretat de l'arxiu de contrasenyes
 A Bitwarden tenim l'opcio de exportat/fer una copia de seguretat, de la nostre caixa forta, que es on guardem tota la nostre informacio.
 
 Per fer-ho, anem al menu desplegable de l'esquerra i seleccionem "Exporta".
@@ -138,3 +139,11 @@ I exportem. Al intentar-ho ens demanara la clau de la caixa forta per temes de s
 
 I ja podrem guardar-ho on volguem.El nom de l'arxiu per defecte, inclou la data en que sa relitzar l'exportacio.
 ![29](img/29.png)
+
+### 4.2.Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat
+
+Un cop exportat l'arxiu de la còpia de seguretat, la millor pràctica és no deixar-lo mai al disc dur del teu ordinador. Per emmagatzemar-lo de forma segura, es recomana una d'aquestes dues opcions:
+
+Clau USB xifrada: Guarda l'arxiu en un llapis de memòria (USB) extern. Per a una seguretat òptima, xifra aquest dispositiu amb eines com BitLocker o VeraCrypt i desa'l físicament en un lloc segur (com un calaix amb clau), completament aïllat d'internet.
+
+Emmagatzematge xifrat al núvol: Si prefereixes tenir la còpia accessible des de qualsevol lloc en cas d'emergència, puja l'arxiu a un servei al núvol que ofereixi xifratge d'extrem a extrem (com Proton Drive o Tresorit). Com que l'exportació de Bitwarden ja està protegida per contrasenya, desar-la en un núvol segur garanteix disponibilitat sense comprometre'n la privacitat."
